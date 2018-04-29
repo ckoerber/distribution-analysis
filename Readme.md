@@ -11,7 +11,7 @@
 
 
 ## <a name="Description"></a>Description
-Module for analyzing and visualizing statistical distributions.
+Python module for analyzing and visualizing statistical distributions.
 
 ## <a name="Contains"></a>Contains
 * `plotDist.py` the visualization module
