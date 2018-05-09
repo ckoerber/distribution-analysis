@@ -18,7 +18,17 @@ Python module for analyzing and visualizing statistical distributions.
 * `utilities.py` the supporting data manipulation module
 
 ## <a name="Getting-started"></a>Getting started
-The python library can be directly imported.
+The python library can be directly imported
+```python
+import distalysis.plotDist as pD
+import distalysis.utilities as ut
+```
+You can also pip install the package by running the following command in the source directory
+```bash
+pip install .
+```
+Add flags like `-e` (symlink directory) or `--user` for local installation if you like.
+
 
 ### <a name="Perquisites"></a>Perquisites
 Pip install the following Python modules:
